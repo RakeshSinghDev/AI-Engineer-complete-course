@@ -1,0 +1,24 @@
+# Week 1 — Python & AI Engineering Foundations
+
+This repository documents my first week of learning and building practical projects in Python and AI engineering.
+
+## What I Worked On
+- **Day 1:** Python fundamentals and introduction to LLM APIs.
+- **Day 2:** Working with LLMs and API integration.
+- **Day 3:** Practical Python programming and experimentation.
+- **Day 4:** Building and improving AI-powered applications.
+- **Day 5:** AI-powered Resume Parser and Candidate Screening System.
+
+## Technologies Used
+- Python
+- uv — Python project and dependency management
+- Groq API — LLM integration
+- Pydantic — Data validation and structured outputs
+- python-dotenv — Environment variable management
+- pypdf — PDF text extraction
+- python-docx — Word document processing
+
+## Goal
+My goal is to develop strong foundations in Python, machine learning, and large language models by building projects from scratch, understanding the underlying concepts, and improving my engineering skills through hands-on practice.
+
+**This is an ongoing learning journey. More projects and improvements will be added as I progress.**

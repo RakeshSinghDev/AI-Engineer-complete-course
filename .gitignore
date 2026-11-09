@@ -1,0 +1,26 @@
+@'
+# Secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Personal resume files
+day5/resumes/*.pdf
+'@ | Set-Content .gitignore
